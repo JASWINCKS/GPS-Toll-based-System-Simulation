@@ -24,7 +24,7 @@ Gokul P
 	•	Navigate to the directory where you want to clone the project.
 	•		Use the following command to clone the repository:
 			sh
-			git clone <repository_url>
+			git clone https://github.com/JASWINCKS/GPS-Toll-based-System-Simulation.git
 2.	Install the dependencies of Python packages:
 	o	Ensure you have Python and pip installed on your system.Navigate to the cloned project directory:
 	sh
