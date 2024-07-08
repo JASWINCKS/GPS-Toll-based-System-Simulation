@@ -8,11 +8,11 @@ import csv
 app = Flask(__name__)
 
 # MySQL database configuration
-db_config = {     ## replace it with your database details 
-    'host': 'Gokul30.mysql.pythonanywhere-services.com',
-    'user': 'Gokul30',
-    'password': 'Ponraj123!',
-    'database': 'Gokul30$intern'
+db_config = {            ## replace it with your database details 
+    'host': 'Anik005.mysql.pythonanywhere-services.com',
+    'user': 'Anik005',
+    'password': 'ani12345',
+    'database': 'Anik005$intern'
 }
 
 # Geofence parameters (entry and exit points, and radius in kilometers)
