@@ -1,23 +1,24 @@
-#GPS Toll-Based Simulation Project
+**#GPS Toll-Based Simulation Project**
 This project simulates a system to calculate toll charges based on vehicle locations using GPS data. It is designed for end users managing toll data, such as vehicle details, available balances, and last logged GPS data. The project uses Python and MySQL, with Flask for handling requests (GET and POST), Geopy for distance calculations, Folium for updating car balance details, and MySQL Connector for database interactions. An interactive web UI makes it easy for government employees to use.
-#Team Members:
+
+**#Team Members:**
 Anirudh K
 Jaaswin S
 Edward Samuel L
 Gokul P
 
-#How It Works
+**#How It Works**
 1.	Car Registration: Register your car in the system.
 2.	GPS Tracking: The system tracks the location of registered cars using GPS data.
 3.	Toll Calculation: Tolls are calculated based on the location of the car.
 4.	Backend Data storage: All the data are stored in backend database for future references
 
-#Requirements:
+**#Requirements:**
 1.	Python (recommended to using latest version)
 2.	MySQL database (database schema provided in the project)
 3.	Proper Web Browser (works best on Google Chrome, other browsers are also supported)
 
-#How to Use
+**#How to Use**
 1.	Clone the project using Git
 	•	Open your terminal (Command Prompt, Git Bash, etc.).
 	•	Navigate to the directory where you want to clone the project.
@@ -48,7 +49,7 @@ Gokul P
 		After logging in, you will be redirected to the home page of the application.
 Enjoy using the application!
 
-#Important Notes:
+**#Important Notes:**
 1.	Ensure Password Security:
 	o	Make sure your passwords are secure. Use a combination of letters, numbers, and special characters.
 	o	Avoid using easily guessable information such as birthdays or common words.
