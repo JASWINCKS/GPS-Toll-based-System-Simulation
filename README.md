@@ -41,14 +41,25 @@ This project simulates a system to calculate toll charges based on vehicle locat
      pip install -r requirements.txt
      ```
 
-
-3. **Start the Application**:
+3. **Database Configuration**:
+   - The Data base schema is provide as db schema.txt.
+   - Implement the database.
+   - Update the database details in the app(2).py file.
+   ```sh
+    db_config = {
+    'host': '<host>',
+    'user': '<username>',
+    'password': '<password>',
+    'database': '<database Name>'}
+   ```
+   
+4. **Start the Application**:
    - Use the following command to start the application:
      ```sh
      python app(2).py
      ```
 
-4. **Access the Application**:
+5. **Access the Application**:
    - Open your web browser and go to `http://127.0.0.1:5000/`.
    - Log in using your username and password. If you are a new user, proceed with the registration process and follow the on-screen instructions to register and then log in with your username and password.
    - After logging in, you will be redirected to the home page of the application. Enjoy using the application!
