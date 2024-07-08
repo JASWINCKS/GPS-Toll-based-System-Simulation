@@ -45,7 +45,7 @@ This project simulates a system to calculate toll charges based on vehicle locat
 3. **Start the Application**:
    - Use the following command to start the application:
      ```sh
-     python app.py
+     python app(2).py
      ```
 
 4. **Access the Application**:
