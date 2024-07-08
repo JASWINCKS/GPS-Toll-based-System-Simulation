@@ -3,8 +3,8 @@
 This project simulates a system to calculate toll charges based on vehicle locations using GPS data. It is designed for end users managing toll data, such as vehicle details, available balances, and last logged GPS data. The project uses Python and MySQL, with Flask for handling requests (GET and POST), Geopy for distance calculations, Folium for updating car balance details, and MySQL Connector for database interactions. An interactive web UI makes it easy for government employees to use.
 
 ## Team Members
-- Anirudh K
 - Jaaswin S
+- Anirudh K
 - Edward Samuel L
 - Gokul P
 
