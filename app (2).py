@@ -8,7 +8,7 @@ import csv
 app = Flask(__name__)
 
 # MySQL database configuration
-db_config = {
+db_config = {     ## replace it with your database details 
     'host': 'Gokul30.mysql.pythonanywhere-services.com',
     'user': 'Gokul30',
     'password': 'Ponraj123!',
