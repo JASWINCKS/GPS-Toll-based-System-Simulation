@@ -34,28 +34,21 @@ This project simulates a system to calculate toll charges based on vehicle locat
    - Ensure you have Python and pip installed on your system.
    - Navigate to the cloned project directory:
      ```sh
-     cd <project_directory>
+     cd GPS-Toll-based-System-Simulation
      ```
-     Replace `<project_directory>` with the name of your project directory.
    - Install the dependencies listed in `requirements.txt` using pip:
      ```sh
      pip install -r requirements.txt
      ```
 
-3. **Navigate to the Application Directory**:
-   - If not already done in the previous step, navigate to the directory where `app.py` is located:
-     ```sh
-     cd <path_to_app.py>
-     ```
-     Replace `<path_to_app.py>` with the path to the directory containing `app.py`.
 
-4. **Start the Application**:
+3. **Start the Application**:
    - Use the following command to start the application:
      ```sh
      python app.py
      ```
 
-5. **Access the Application**:
+4. **Access the Application**:
    - Open your web browser and go to `http://127.0.0.1:5000/`.
    - Log in using your username and password. If you are a new user, proceed with the registration process and follow the on-screen instructions to register and then log in with your username and password.
    - After logging in, you will be redirected to the home page of the application. Enjoy using the application!
